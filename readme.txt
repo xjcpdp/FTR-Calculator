@@ -1,4 +1,4 @@
-Version 1.0: Take into account for Buy/Sell, enoucnterd an unsolvable bug when trying to extract data to calculate profit in one query, this bug causes the progrma to hang forever when user choose to establish a new database. The query itself works fine on an existing database.
+Version 1.0: Take into account for Buy/Sell.
 
 There are two file in this zipped file:
 1. mysql_script.sql
